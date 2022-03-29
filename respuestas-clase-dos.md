@@ -10,6 +10,7 @@ Responde las siguientes preguntas en la sección de comentarios:
 2️⃣ Determina el nombre y tipo de dato para almacenar en variables la siguiente información:
 3️⃣ Traduce a código JavaScript las variables del ejemplo anterior y deja tu código en los comentarios:
 
+```js
 // respuesta de punto 2 y 3
 Nombre: 'string'--> var = nombre: "Uriel";
 Apellido: 'string'--> var apellido = "Arana";
@@ -19,7 +20,7 @@ Correo electrónico: 'string'--> var email = "example@example.com";
 Mayor de edad: 'boolean'--> var mayorEdad = edad >= 18 ? true : false;
 Dinero ahorrado: 'number'--> var totalAhorros = 1000.00;
 Deudas: 'number'--> var deudas = 100.00;
-
+```
 
 
 4️⃣ Calcula e imprime las siguientes variables a partir de las variables del ejemplo anterior:
