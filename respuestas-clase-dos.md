@@ -1,3 +1,5 @@
+# Respuestas Clase 2
+
 Responde las siguientes preguntas en la sección de comentarios:
 
 ¿Qué es una variable y para qué sirve?: Es un espacio en memoria en el que se puede guardar datos y/o estructuras de datos
