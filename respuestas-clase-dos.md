@@ -44,8 +44,6 @@ var dineroReal = totalAhorros - deudas;
 console.log("Dinero real: " + dineroReal);
 ```
 
----
-
 ## Funciones
 >1️⃣ Responde las siguientes preguntas en la sección de comentarios:\
 
@@ -127,8 +125,6 @@ if(tipoDeSuscripcion == "ExpertPlus"){
 }
 ```
 
----
-
 ## Ciclos
 > 1️⃣ Responde las siguientes preguntas en la sección de comentarios:\
 
@@ -180,7 +176,6 @@ while(respuesta != 4){
 }
 ```
 
----
 
 ## Listas
 > 1️⃣ Responde las siguientes preguntas en la sección de comentarios:\
