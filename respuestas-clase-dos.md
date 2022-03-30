@@ -7,7 +7,7 @@
 **¿Cuál es la diferencia entre sumar números y concatenar strings?:** La diferencia es que uno utiliza el operador "+" para realizar la operación aritmética y la otra para "pegar" una cadena con otra.
 **¿Cuál operador me permite sumar o concatenar?:** +
 
-> 2️⃣ Determina el nombre y tipo de dato para almacenar en variables la siguiente información:
+> 2️⃣ Determina el nombre y tipo de dato para almacenar en variables la siguiente información:\
 > 3️⃣ Traduce a código JavaScript las variables del ejemplo anterior y deja tu código en los comentarios:
 
 ```js
