@@ -13,11 +13,7 @@ function calcularMediaArmonica(lista){
 
     //! --> Solución con metodo '.reduce()'
     const sumaReciprocosLista = lista.reduce(function(valorAcumulado = 0, nuevoElemento){
-        if(valorAcumulado == lista[0]){
-            return (1 / valorAcumulado) + (1 / nuevoElemento);
-        }else{
-            return valorAcumulado + (1 / nuevoElemento);
-        }
+        return valorAcumulado == lista[0] ? (1 / valorAcumulado) + (1 / nuevoElemento) : valorAcumulado + (1 / nuevoElemento);   
     });
     const mediaArmonica = lista.length / sumaReciprocosLista;
 
