@@ -1,10 +1,4 @@
-const lista1 = [
-    100,
-    200,
-    300,
-    500
-];
-
+// const lista1 = [100,200,300,500]; // --> Lista de pruebas
 
 function calcularMediaAritmetica(lista){
     // let sumaLista = 0;
